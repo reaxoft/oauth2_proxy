@@ -4,7 +4,7 @@ import(
 	"errors"
 	"net/http"
 	"fmt"
-	"github.com/bitly/oauth2_proxy/api"
+	"github.com/reaxoft/oauth2_proxy/api"
 )
 
 type BlitzIdpProvider struct {
